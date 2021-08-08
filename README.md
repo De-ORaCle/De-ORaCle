@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, UI/UX and Python.
 - 🌱 I’m currently learning all of the above, since learning never ends.
 - 💞️ I’m looking to collaborate on web projects, python projects and anything you think can challenge my existence.
-- 📫 You can reach me via WhatsApp on https://twitter.com/BenjaminOlapade
+- 📫 You can reach me via Twitter on https://twitter.com/BenjaminOlapade
 
 <!---
 De-ORaCle/De-ORaCle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
