@@ -1,3 +1,3 @@
-If you're ever considering Benjamin Olapade, you're in the wrong place.
+Benjamin Olapade is a [frontend web expert](http://benjaminolapade.netlify.app) with +2 years experience, a technical writer and a python developer.
 
-Github is just vibes to him, nothing serious, just vibes.
+
