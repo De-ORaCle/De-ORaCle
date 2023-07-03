@@ -1,4 +1,1 @@
-Bukola Olapade is a [frontend web expert](http://benjaminolapade.netlify.app) with 2+ years experience, [a technical writer](https://hashnode.com/@Oracle) and [a python developer](#) who is passionate about making technology education accessible to everyone.
-
-
-
+Bukola Olapade is a young techie that finds pleasure in solving problems and making an impact. Although he identifies as a UX designer, he is capable of writing optimizable codes. Bukola has been writing Python for 4+ years and JavaScript (vanilla) for 3+ years. His versatility gives him an edge when solving problems, making him so creative.
