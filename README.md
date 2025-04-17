@@ -9,7 +9,7 @@ I live at the intersection of **elegant design**, **smart code**, and **deep thi
 ### 🛠 What I Do
 
 - 🎨 **Product Design** – Research, wireframing, prototyping, and bringing beautiful ideas to life with Figma  
-- 💻 **Frontend Development** – React.js, Next.js, Vanilla JS, HTML/CSS  
+- 💻 **Frontend Development** – React.js, Next.js (new), Vanilla JS, HTML/CSS  
 - 🧠 **Logic & Algorithms** – Math graduate with a passion for computational thinking and clean solutions  
 - 🔍 **Product Thinking** – Turning user needs into meaningful features that work and wow
 
